@@ -5,5 +5,5 @@ Brand New project.
 
 
 List of Contributors:
-Michael Melatti,
+Michael Melatti, John Park, 
 ...
